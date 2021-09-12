@@ -1,0 +1,10 @@
+1YX98J,2014,Black,White,,Toyota,RAV4,25000
+ABC132,2007,Yellow,,,Toyota,Corolla,5900
+MARY21,2017,Dark Grey,Blue,Red,BMW,X5,25132
+90210,2012,Blue,Light Green,,Honda,Civic,2000
+Suarez,2012,black,white,yellow,MyOwnBrand,Thanos,2989
+muscle,2020,black,pink,,MyOwnBrand,Shrek,5600
+ddos,2000,black,,,Toyota,Celica,1200
+duck,2021,brown,,,Kia,Sorento,12000
+golu,2000,white,white,white,MyOwnBrand,Hulk,30000
+tata,1951,white,,,Holden,Commodore,10000

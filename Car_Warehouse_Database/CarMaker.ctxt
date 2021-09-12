@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CarMaker
+comment0.text=\n\ Class\ template\ of\ CarMaker\ holds\ the\ behaviour\ and\ attributes\ of\ the\ carMaker\ class\ which\ are\ required\ for\ the\ assignment.\n\ It\ has\ a\ paramterized\ and\ a\ default\ constructor.\n\ Class\ sets\ and\ gets\ different\ field\ values\ such\ as\ reigistration\ number,\ year\ Made,\ car\ Colour\ etc.\n\ Setters\ and\ getters\ methods\ are\ used\ for\ the\ purpose\ of\ providing\ possible\ information\ about\ a\ single\ car\ object.\n\n\ @author\ (Kapish\ Kuchroo)\n\ @version\ (v3,\ 27th\ May\ 2021)\n
+comment1.params=
+comment1.target=CarMaker()
+comment1.text=\n\ Default\ Constructor\ for\ objects\ of\ class\ CarMaker.\n
+comment2.params=newMakerName\ newModelName
+comment2.target=CarMaker(java.lang.String,\ java.util.ArrayList)
+comment2.text=\n\ Parametrised\ Constructor\ for\ objects\ of\ class\ CarMaker.\n\ @param\ newMakerName\ String\ type\ maker\ name\ of\ a\ car\n\ @param\ newModelName\ Array\ List\ of\ strings\ of\ model\ names\n
+comment3.params=
+comment3.target=java.lang.String\ getMakerName()
+comment3.text=\n\ \n\ Getter\ for\ ModelName\ of\ the\ CarMaker\n\ @return\ makerName\ maker\ name\ of\ the\ car\ is\ returned\n\ \n
+comment4.params=
+comment4.target=java.util.ArrayList\ getModelName()
+comment4.text=\n\ \n\ Getter\ for\ ModelName\ of\ the\ CarMaker\n\ @return\ modelName\ retuns\ the\ array\ list\ of\ models\n\ \n
+comment5.params=newMakerName
+comment5.target=void\ setMakerName(java.lang.String)
+comment5.text=\n\ \n\ Setter\ for\ MakerName\ of\ the\ Car.\n\ @param\ newMakerName\ String\ value\ for\ a\ new\ maker\ name\n\ \n
+comment6.params=newModelName
+comment6.target=void\ setModelName(java.lang.String)
+comment6.text=\n\ Setter\ for\ ModelName\ of\ the\ CarMaker\n\ @param\ newModelName\ String\ of\ a\ new\ model\ name\ of\ a\ car\n\ \n
+numComments=7

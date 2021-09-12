@@ -1,0 +1,7 @@
+Toyota,Prius,Corolla,Camry,Celica,RAV4
+BMW,X3,X5,X7
+Honda,Civic,Legend,Accord,Odyssey
+Holden,Commodore,Barina,Apollo,Astra
+Hyundai,Sonata,Elantra,Tucson
+Kia,Sportage,Stinger,Carnival,Sorento
+MyOwnBrand,Thor,Ironman,Hulk,Superman,Thanos,Shrek
